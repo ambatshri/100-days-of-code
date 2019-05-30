@@ -11,3 +11,8 @@
 **Today's Progress**: Starting with redux
 
 **Thoughts** Finished react-router and practised on dummy project. Decided to include redux for state management, so started watching tutorials by dan abramov on egghead. Will be practising redux for few days.
+
+### Day 3: May 30, Thursday
+
+**Today's Progress**: Continuing with redux
+**Thoughts** Read some articles on redux for state management. When to use it and how to use it. The concepts felt confusing so will be continuing the redux.
