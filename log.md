@@ -16,3 +16,8 @@
 
 **Today's Progress**: Continuing with redux
 **Thoughts** Read some articles on redux for state management. When to use it and how to use it. The concepts felt confusing so will be continuing the redux.
+
+### Day 4: June 1, Saturday
+
+**Today's Progress**: Attended 2 Day React Training Session by Vishal Dubey. Day 1  
+**Thoughts** So our company organised a 2day React Training Session by Vishal. Day 1 of Training, covered basics of React along with props and event handlers
