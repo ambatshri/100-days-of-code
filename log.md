@@ -21,3 +21,8 @@
 
 **Today's Progress**: Attended 2 Day React Training Session by Vishal Dubey. Day 1  
 **Thoughts** So our company organised a 2day React Training Session by Vishal. Day 1 of Training, covered basics of React along with props and event handlers
+
+### Day 5: June 2, Sunday
+
+**Today's Progress**: Attended 2 Day React Training Session by Vishal Dubey. Day 2
+**Thoughts** Did a To-Do  project in React as a part of training session. Along with another task in which the app needs to be breaked down into components. The task allowed us to start thinking in react.
