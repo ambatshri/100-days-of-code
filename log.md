@@ -26,3 +26,9 @@
 
 **Today's Progress**: Attended 2 Day React Training Session by Vishal Dubey. Day 2
 **Thoughts** Did a To-Do  project in React as a part of training session. Along with another task in which the app needs to be breaked down into components. The task allowed us to start thinking in react.
+
+
+### Day 6: June 4, Tuesday
+
+**Today's Progress**: Finished Redux challenges on freecodecamp.
+**THoughts** After performing the challenges in freecodecamp, got a better understanding on reducers, action creators and actions in redux. After finishing the Redux challeges, just had a glance at React & Redux on freecodecamp's first challenge.
