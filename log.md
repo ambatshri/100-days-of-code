@@ -32,3 +32,8 @@
 
 **Today's Progress**: Finished Redux challenges on freecodecamp.
 **THoughts** After performing the challenges in freecodecamp, got a better understanding on reducers, action creators and actions in redux. After finishing the Redux challeges, just had a glance at React & Redux on freecodecamp's first challenge.
+
+### Day 7: June 5, Wednesday
+
+**Today's Progress**: Finished React & Redux challenges on freecodecamp.
+**THoughts** To put the pieces together in react with redux, the freecodecamp lesson/challenges gave a clear goal on what needs to be achieved. Finished the React & Redux challenges. Might do the the fcc's Front End Libraries Projects.
