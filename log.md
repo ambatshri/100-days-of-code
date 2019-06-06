@@ -37,3 +37,8 @@
 
 **Today's Progress**: Finished React & Redux challenges on freecodecamp.
 **THoughts** To put the pieces together in react with redux, the freecodecamp lesson/challenges gave a clear goal on what needs to be achieved. Finished the React & Redux challenges. Might do the the fcc's Front End Libraries Projects.
+
+### Day 8: June 6, Thursday
+
+**Today's Progress**: Working on adding redux to private project
+**THoughts** After getting a better undestanding, I've decided to include redux in a private application i've been working on. Will be integrating redux throughtout the application.
